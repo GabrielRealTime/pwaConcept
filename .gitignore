@@ -1,0 +1,135 @@
+# Archivos de FlutterFlow
+/export/
+/firebase/
+/lib/
+/pubspec.yaml
+/pubspec.lock
+/README.md
+/analysis_options.yaml
+/android/
+/ios/
+/web/
+/windows/
+/macos/
+/linux/
+/test/
+/assets/
+/fonts/
+/images/
+/json/
+/l10n/
+/screenshots/
+/scripts/
+/temp/
+/tmp/
+/build/
+/coverage/
+/doc/
+/example/
+/packages/
+/plugins/
+/templates/
+/tools/
+/firebase_app_id_file.json
+/google-services.json
+/key.properties
+/local.properties
+/project.properties
+/settings.gradle
+/gradlew
+/gradlew.bat
+/gradle/wrapper/gradle-wrapper.jar
+/flutter_build/
+/flutter_assets/
+/flutter_plugins/
+/generated_plugin_registrant.dart
+
+# Directorios y archivos de Dart/Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.env
+.DS_Store
+Thumbs.db
+*.iml
+*.iws
+*.ipr
+*.idea/
+.vscode/
+build/
+.env/
+.env.*
+.firebase/
+.firebase-export/
+.flutterflow/
+.vscode/
+
+# Dependencias de paquetes
+/ios/.symlinks/
+/android/.gradle/
+/android/app/build/
+/android/app/.cxx/
+/android/app/src/main/assets/flutter_assets/
+/android/key.properties
+/android/local.properties
+
+# Archivos de depuración y logs
+*.log
+*.str
+*.stacktrace
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.flutter-plugins-tsc-lock
+/crashlytics/
+/firebase-debug.log
+/flutter_assets_hash
+/flutter_build_config.json
+
+# Archivos generados por Xcode (iOS)
+/ios/.generated/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/flutter_assets/
+/ios/Pods/
+/ios/Runner/*.pbxuser
+/ios/Runner/*.xcworkspace/xcuserdata/
+/ios/Runner/project.xcworkspace/
+/ios/Runner/xcshareddata/
+/ios/Runner/Runner.xcscheme
+/ios/Runner/project.xcworkspace/
+/ios/Runner/Runner.xcodeproj/project.xcworkspace/
+/ios/Runner/Runner.xcodeproj/xcuserdata/
+
+# Archivos generados por Android Studio (Android)
+/android/.idea/
+/android/local.properties
+/android/*.iml
+/android/.gradle/
+/android/captures/
+/android/app/build/
+/android/app/src/main/res/raw/*
+/android/app/src/main/assets/flutter_assets/
+/android/gradle/
+/android/keystores/
+
+# Otros archivos
+.DS_Store
+Desktop.ini
+ehthumbs.db
+.project
+.settings
+.classpath
+
+# Archivos específicos de FlutterFlow que pueden ser grandes o cambian frecuentemente
+/assets/pdfs/
+/assets/videos/
+/assets/audios/
+/assets/web_files/
+
+# Puede que quieras ignorar archivos de configuración de Firebase si no quieres versionarlos
+# /lib/firebase_options.dart
+# /firebase_app_id_file.json
+# /google-services.json
